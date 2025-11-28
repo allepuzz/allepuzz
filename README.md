@@ -1,6 +1,6 @@
 
 ## Hey! :) Im Ángel Allepuz 
-## I'm a Telecom / ML Engineer from Spain!
+### I'm a Telecom / ML Engineer from Spain!
 This will a place where I post my experiments. Mostly ML / AI and also some API stuff most likely.
 
 The AI ones (for now) will be around testing and evaluating cutting-edge models on their actual intelligence. 
