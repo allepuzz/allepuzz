@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**allepuzz/allepuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! :) Im Ángel Allepuz 
+## I'm a Telecom / ML Engineer from Spain!
+This will a place where I post my experiments. Mostly ML / AI and also some API stuff most likely.
 
-Here are some ideas to get you started:
+The AI ones (for now) will be around testing and evaluating cutting-edge models on their actual intelligence. 
+For this I plan to develop my own metrics, althoug ARC-AGI-2 is pretty great.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I would love to collaborate with people on this endevour, soo, reach out!!
+Social:
+LinkedIn --> https://www.linkedin.com/in/angelallepuz
+
+I also got I blog where ill post about the progress in all this. 
+Blog -->  https://allepuzangel.blog/
