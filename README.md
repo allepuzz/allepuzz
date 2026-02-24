@@ -11,4 +11,5 @@ Social:
 LinkedIn --> https://www.linkedin.com/in/angelallepuz
 
 I also got I blog where ill post about the progress in all this. 
-Blog -->  https://allepuzangel.blog/
+Blog -->  https://nousarchives.github.io/blog/angel/
+And that blog is part of a youtube channel where me and some friends talk about art --> https://www.youtube.com/@NousArchives
