@@ -1,5 +1,5 @@
 
-## Hey! :) Im Ángel Allepuz 
+## Hey! I'm Ángel Allepuz 
 ### I'm a Telecom / ML Engineer from Spain!
 This will a place where I post my experiments. Mostly ML / AI and also some API stuff most likely.
 
